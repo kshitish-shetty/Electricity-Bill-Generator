@@ -1,7 +1,7 @@
 
 # Electricity Bill Generator
 
-The Electricity Bill Generator project is designed to streamline and automate the billing process. Its primary purpose is to enhance operational efficiency by accurately calculating and generating electricity bills. The project encompasses user information input, billing calculations, and reporting, ensuring a comprehensive solution.
+The Electricity Bill Generator project is for practice working with the C language and to develop a GUI like interface in C. Its goal is to accurately calculate and generate electricity bills. The project encompasses user information input, billing calculations, and reporting, ensuring a comprehensive solution.
 
 It is an application which will take input manually or either in the form of a .csv file which has to be of the format
 
